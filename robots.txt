@@ -1,0 +1,4 @@
+Sitemap: https://urrmeli.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: urrmeli.github.io
